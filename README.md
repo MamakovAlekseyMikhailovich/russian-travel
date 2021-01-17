@@ -8,3 +8,6 @@
 4. *GIT.*
 5. *Верстка адаптивного сайта на Grid Layout*
 6. *Использование media queries для задания специфических правил для разных размеров экранов и др.*
+
+# Проектная работа на GitHub Pages: (https://mamakovalekseymikhailovich.github.io/russian-travel/) 
+

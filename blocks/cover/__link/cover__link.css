@@ -1,8 +1,5 @@
 .cover__link {
   text-decoration: none;
-  background-size: cover;
-  background-image: url(../../../images/cover-trains.jpg);
-  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
